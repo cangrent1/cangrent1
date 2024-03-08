@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning code with Copilot
 <!--
 **cangrent1/cangrent1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
